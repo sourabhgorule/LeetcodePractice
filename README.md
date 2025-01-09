@@ -26,17 +26,7 @@ I use **Java** exclusively for solving problems in this repository.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/leetcode-daily.git
-   ```
-
-2. Navigate to the desired problem's directory:
-   ```bash
-   cd leetcode-daily/solutions/<problem-name-or-id>
-   ```
-
-3. Compile and run the solution:
-   ```bash
-   javac solution.java && java Solution
+   https://github.com/sourabhgorule/LeetcodePractice.git
    ```
 
 ## Goals
