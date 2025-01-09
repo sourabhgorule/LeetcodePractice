@@ -46,7 +46,6 @@ If you'd like to suggest a problem or provide feedback on my solutions, feel fre
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/<your-profile>)
-- [GitHub](https://github.com/<your-username>)
+- [LinkedIn](www.linkedin.com/in/sourabhgorule-java-devloper)
 
 Thank you for visiting my repository! Happy coding! 💻
